@@ -1,6 +1,12 @@
-# Title: Say goodbye to messy CSS stylesheets. Welcome Tailwind!
+# Lunch and learn materials
 
-### Lunch and learn - November 8th 2018
+At TTT Studios we're constantly learning about new technologies and ways to improve ourselves.
+
+Lunch and learn is a weekly event at our offices, where someone presents learnings from a project, a new framework, an experience or mostly anything that is worth shareable. 
+
+This repo stores materials from this sessions. 
+
+### List
 
 ---
 
