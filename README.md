@@ -6,18 +6,11 @@ Lunch and learn is a weekly event at our offices, where someone presents learnin
 
 This repo stores materials from this sessions. 
 
-### List
+## List
+
+1. [https://github.com/Twotalltotems/lunch-and-learn/tree/master/181108_tailwind](November 8th - Say goodbye to messy CSS stylesheets. Welcome Tailwind! - Felipe Peña)
 
 ---
 
-This repo contains:
-
-1. Presentation markdown and pdf export (using Deckset).
-1. Code for basic example.  
-1. Code for intermediate example.
-1. Code for advanced Tailwind config example.
-
----
-
-### Felipe Peña - Two Tall Totems - 2018
+### Mantainer: Felipe Peña - TTT Studios - 2018
 
