@@ -13,8 +13,7 @@ This repo stores materials from this sessions.
 | 11-29-18 | Interesting Reinforcement Learning & What I Learned in TTT  | Zhen | - |
 | 11-22-18 | TOWN HALL  | David | - |
 | 11-15-18 | JVM Profiling | Vitor | - |
-| 11-08-18 | Say goodbye to messy CSS stylesheets. Welcome Tailwind! | Felipe | [Link]
-(https://github.com/Twotalltotems/lunch-and-learn/tree/master/181108_tailwind) |
+| 11-08-18 | Say goodbye to messy CSS stylesheets. Welcome Tailwind! | Felipe | [Link](https://github.com/Twotalltotems/lunch-and-learn/tree/master/181108_tailwind) |
 | 11-01-18 | New Features on Zeplin | Felix | - |
 | 10-25-18 | Introduction to gRPC | Vinson | - |
 | 10-18-18 | TOWN HALL | Chris | - |
