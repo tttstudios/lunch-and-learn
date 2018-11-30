@@ -8,7 +8,9 @@ This repo stores materials from this sessions.
 
 ## List
 
-1. [November 8th - Say goodbye to messy CSS stylesheets. Welcome Tailwind! - Felipe Peña](https://github.com/Twotalltotems/lunch-and-learn/tree/master/181108_tailwind)
+| Date | Name | Presenter | Materials? |
+| --- | --- | --- |
+| 110818 | Say goodbye to messy CSS stylesheets. Welcome Tailwind! | Felipe Peña | [Link](https://github.com/Twotalltotems/lunch-and-learn/tree/master/181108_tailwind) |
 
 ---
 
